@@ -1,0 +1,5 @@
+SERVICE=Osmosis
+PROCESS=26656
+PROCESS_NUM=1
+LOG_FILE=osmosis-process.log
+LARK_WEBHOOK_URL=https://open.larksuite.com/open-apis/bot/v2/hook/

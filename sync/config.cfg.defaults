@@ -1,0 +1,7 @@
+SERVICE=Osmosis
+LOCAL_HOST=http://127.0.0.1:26657/status
+REMOTE_HOST_FIRST=https://rpc.osmosis.zone/status
+REMOTE_HOST_SECOND=https://osmosis-mainnet-rpc.allthatnode.com:26657/status
+ABS_NUM=100
+LOG_FILE=osmosis-sync.log
+LARK_WEBHOOK_URL=https://open.larksuite.com/open-apis/bot/v2/hook/
