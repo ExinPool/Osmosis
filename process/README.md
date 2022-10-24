@@ -43,7 +43,7 @@ LARK_WEBHOOK_URL=https://open.larksuite.com/open-apis/bot/v2/hook/
 Add crontab like this in the server.
 
 ``` bash
-# Osmosis Node Process Monitor
+# Osmosis node process monitor
 */30 * * * * cd /data/monitor/exinpool/Osmosis/process && bash osmosis-process.sh >> osmosis-process.log &
 ```
 
