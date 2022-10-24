@@ -4,7 +4,7 @@
 #
 # Distributed under terms of the MIT license.
 #
-# Desc: Bytom process monitor script.
+# Desc: Osmosis Process Monitor.
 # User: Robin@ExinPool
 # Date: 2022-10-24
 # Time: 11:26:18

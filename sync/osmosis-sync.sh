@@ -4,10 +4,10 @@
 #
 # Distributed under terms of the MIT license.
 #
-# Desc: Mixin process monitor script.
+# Desc: Osmosis Sync Monitor.
 # User: Robin@ExinPool
-# Date: 2021-09-1
-# Time: 07:50:15
+# Date: 2022-10-24
+# Time: 11:26:18
 
 # load the config library functions
 source config.shlib
