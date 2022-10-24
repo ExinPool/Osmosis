@@ -15,7 +15,7 @@
 
 ## Installation
 
-- Ubuntu 16.04.1 LTS
+- Ubuntu 20.04 LTS
 - Written in bash
 
 ### Clone
@@ -29,12 +29,6 @@ $ sudo git clone https://github.com/ExinPool/Osmosis
 ```
 
 ### Setup
-
-Search `7000000012` in [Mixin Messenger](https://mixin.one/messenger) and add **[Webhook](https://mixin.one/codes/4d792128-1db8-4baf-8d90-d0d8189a4a7e)** as contact.
-
-Invite Webhook and somebody who want to receive monitor message to a small group in Mixin Messenger. Open Webhook in the group, you can see the access token.
-
-> Note: The access token is only available for the owner of the group.
 
 Copy `config.cfg.defaults` to `config.cfg` and change some varibles like this in the `config.cfg`.
 

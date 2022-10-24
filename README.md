@@ -1,2 +1,3 @@
 # Osmosis
-ExinPool in Osmosis System
+
+ExinPool in Osmosis System.
