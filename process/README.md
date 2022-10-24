@@ -44,10 +44,10 @@ Add crontab like this in the server.
 
 ``` bash
 # Osmosis Node Process Monitor
-*/30 * * * * cd /data/monitor/exinpool/Osmosis/process && bash osmosis-process >> osmosis-process.log &
+*/30 * * * * cd /data/monitor/exinpool/Osmosis/process && bash osmosis-process.sh >> osmosis-process.log &
 ```
 
-The crontab will run every minute then you can check the log in the `osmosis-process.log`.
+The crontab will run every 30 minutes then you can check the log in the `osmosis-process.log`.
 
 ## Features
 

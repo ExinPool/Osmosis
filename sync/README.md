@@ -47,10 +47,10 @@ Add crontab like this in the server.
 
 ``` bash
 # Osmosis node sync monitor
-*/30 * * * * cd /data/monitor/exinpool/BSC/process && bash bsc_sync.sh >> bsc_sync.log &
+*/30 * * * * cd /data/monitor/exinpool/Osmosis/sync && bash osmosis-sync.sh >> osmosis-sync.log &
 ```
 
-The crontab will run every minute then you can check the log in the `bsc_sync.log`.
+The crontab will run every 30 minutes then you can check the log in the `osmosis-sync.log`.
 
 ## Features
 
